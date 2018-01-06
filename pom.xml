@@ -32,6 +32,7 @@
 	</properties>
 	<modules>
 		<module>eql-nifi-processor</module>
+		<module>idyl-e3-nifi-processor</module>
 		<module>langdetect-nifi-processor</module>
 	</modules>
 </project>
